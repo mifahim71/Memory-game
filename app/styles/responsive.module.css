@@ -1,0 +1,12 @@
+@media (max-width: 460px) {
+    .newGame{
+        width: 90vw;
+    }
+    .mainBoard{
+        width: 90vw;
+        height: 90vw;
+    }
+    .title{
+        font-size: 9vw;
+    }
+}
